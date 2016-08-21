@@ -2,7 +2,7 @@
   "name": "async",
   "version": "1.0.0",
   "description": "",
-  "main": "hello-async.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,6 +13,7 @@
   "author": "Ramzi Mekhail",
   "license": "ISC",
   "dependencies": {
-    "request": "^2.69.0"
+    "request": "^2.69.0",
+    "yargs": "^4.6.0"
   }
 }
